@@ -1,6 +1,8 @@
 # MyFlowLayout
 
 ## Dependencies
+### minSdkVersion
+14
 ### latest version
 **1.0**
 ### gradle
